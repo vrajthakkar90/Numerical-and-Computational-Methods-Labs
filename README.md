@@ -21,7 +21,7 @@ Lab-8: Iterative Methods for Solving Linear Systems of Equations
 
 Lab-9: Numerical Integration (Trapezoid Method, Simpsons Methods and Guassian Quadrature)
 
-# Refrences
+# References
 
 1. An Introduction To Numerical Analysis, K. Atkinson
 2. An Introduction To Numerical Methods and Analysis, James F. Epperson
