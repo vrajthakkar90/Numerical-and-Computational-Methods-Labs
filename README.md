@@ -1,5 +1,5 @@
 # Numerical-and-Computational-Methods-Labs
-Labs for Numerical and Computational Methods, which consists of the implementation of mathematical tools like root finding method, interpolation theory, solving system of linear equation etc.
+Here are the labs for Numerical and Computational Methods. These were done as a part of the course in a group of three.
 
 # MC225 Numerical and Computational Methods Labs, Prof. Aditya Tatu
 
